@@ -66,4 +66,6 @@ for (const element of path) {
   }
 }
 
-console.log('=>', value)
+console.log('=>', value);
+console.log('=>2', value);
+console.log('=>3', value);
