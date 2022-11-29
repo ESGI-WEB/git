@@ -1,0 +1,31 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "A git project with the aim to train our git skills, to follow the git workflow and to learn how to work in a team.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "husky": "^8.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESGI-WEB/git.git"
+  },
+  "author": "ESGI-WEWB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ESGI-WEB/git/issues"
+  },
+  "homepage": "https://github.com/ESGI-WEB/git#readme"
+}
