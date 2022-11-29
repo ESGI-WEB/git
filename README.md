@@ -22,8 +22,8 @@ A git project with the aim to train our git skills, to follow the git workflow a
 
 ## Contributing
 
-If you would like to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/ESGI-WEB/git/blob/main/docs/CONTRIBUTING.md).
+If you would like to contribute to the project, please read the [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
 
 ## License
 
-This project is under the MIT licence, for more information, please read the [LICENSE](https://github.com/ESGI-WEB/git/blob/main/LICENSE).
+This project is under the MIT licence, for more information, please read the [LICENSE](./LICENSE).
