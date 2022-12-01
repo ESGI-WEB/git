@@ -1,0 +1,22 @@
+#Name of action
+name: Lint on pull_request
+on: [pull_request]
+jobs:
+  linting:
+    name: Linting
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Code Checkout
+        uses: actions/checkout@v3
+        
+      - name: Install 
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install Dependencies
+        run: npm i
+
+      - name: Code Linting
+        run: npm run lint
