@@ -56,7 +56,7 @@ const path = ['address', 'geolocation', 'latitude'];
 let value = user;
 
 for (const element of path) {
-      if (typeof value === 'undefined') {
+      if (typeof value === undefined) {
        break;
   }
   if (element in value) {
