@@ -3,7 +3,7 @@ name: Bug
 about: Issue for bug
 title: "[Bug]"
 labels: bug
-assignees: Nicolas-Wadoux-ESGI
+assignees: ''
 
 ---
 

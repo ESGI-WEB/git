@@ -3,7 +3,7 @@ name: Feature
 about: Issue for new story
 title: "[Feature]"
 labels: ''
-assignees: Nicolas-Wadoux-ESGI
+assignees: ''
 
 ---
 
